@@ -18,7 +18,7 @@ Frontend + backend + API + database — always improving through real projects.
 </td>
 <td valign="top" width="45%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="420" alt="Developer illustration" />
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="420" alt="Developer illustration" />
 
 </td>
 </tr>
