@@ -10,8 +10,6 @@ I build practical, real-world web apps with clean code, strong fundamentals, and
 Frontend + backend + API + database — always improving through real projects.
 
 - 🔭 Currently building **full-stack web apps**
-- 🌱 Learning **Spring Boot & React** (plus testing and clean architecture)
-- ⚡ Fun fact: I enjoy optimizing performance and keeping READMEs clean
 
 **My Tech Stack:**
 
@@ -20,7 +18,7 @@ Frontend + backend + API + database — always improving through real projects.
 </td>
 <td valign="top" width="45%">
 
-<img src="assets/hero-illustration.png" width="420" alt="Developer illustration" />
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="420" alt="Developer illustration" />
 
 </td>
 </tr>
