@@ -1,6 +1,9 @@
 ## 👋 Hi, I'm Alberto Gálvez
 
-I'm a **DAW/DAM student** and passionate **Java & Web Developer** based in Spain. I focus on building real-world applications with clean code and modern architectures.
+**Junior Full-Stack Developer**
+
+I build practical, real-world web apps with clean code, strong fundamentals, and scalable structure.  
+Frontend + backend + API + database — always improving through real projects.
 
 - 🔭 I'm currently working on **Full Stack Web Apps**
 - 🌱 I'm currently learning **Spring Boot & React**
