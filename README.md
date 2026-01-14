@@ -29,17 +29,3 @@ Frontend + backend + API + database — always improving through real projects.
   <a href="https://www.linkedin.com/in/alberto-galvez-aguado/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://albertogalvez-dev.github.io/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=albertogalvez-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=fff&text_color=9f9f9f&icon_color=fff"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=albertogalvez-dev&show_icons=true&hide_border=true"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=albertogalvez-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=fff&text_color=9f9f9f"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertogalvez-dev&layout=compact&hide_border=true"/>
-</picture>
