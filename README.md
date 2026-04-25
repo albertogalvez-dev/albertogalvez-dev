@@ -22,7 +22,7 @@ Ver en el portfolio: [BIOR Strategy](https://albertogalvez-dev.github.io/project
 
 #### Echo2Action
 
-Proyecto desarrollado junto a mi amigo Daniel: https://github.com/danicode-dev. Echo2Action transforma reseñas públicas de tiendas físicas en insights priorizados y acciones generadas con IA para equipos de marketing, atención al cliente y operaciones.
+Proyecto desarrollado junto a mi amigo [Daniel](https://github.com/danicode-dev). Echo2Action transforma reseñas públicas de tiendas físicas en insights priorizados y acciones generadas con IA para equipos de marketing, atención al cliente y operaciones.
 
 El sistema analiza feedback de fuentes como Google Reviews, Google Play y Trustpilot, clasifica cada reseña por sentimiento, severidad, tema y etapa del cliente, agrupa fricciones relevantes y genera acciones concretas: FAQs, mejoras de copy, respuestas públicas sugeridas y recomendaciones operativas.
 
