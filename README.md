@@ -9,9 +9,7 @@
   <a href="https://albertogalvez-dev.github.io/"><img src="https://img.shields.io/badge/Portfolio-172B57?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<table>
-  <tr>
-    <td valign="top" width="68%">
+<img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Developer illustration" />
 
 I build end-to-end applications: from the data model and API to the interface, testing and deployment. My background in logistics and operations keeps me focused on software that understands the real process and the people using it.
 
@@ -21,12 +19,7 @@ I care about clear architecture, traceable decisions, useful tests and products 
 
 <img src="https://skillicons.dev/icons?i=java,spring,php,python,ts,angular,react,postgres,mysql,docker,githubactions,linux&perline=12" alt="Java, Spring, PHP, Python, TypeScript, Angular, React, PostgreSQL, MySQL, Docker, GitHub Actions and Linux" />
 
-    </td>
-    <td valign="middle" width="32%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="250" alt="Developer illustration" />
-    </td>
-  </tr>
-</table>
+<br clear="right" />
 
 ## Selected work
 
